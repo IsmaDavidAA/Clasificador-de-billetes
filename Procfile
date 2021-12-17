@@ -1,0 +1,1 @@
+web: gunicorn clasificador_project.wsgi --log-file -
